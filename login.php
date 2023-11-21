@@ -18,6 +18,9 @@
         <button type="submit">Entrar</button>
     </form>
 </div>
+<button>
+    <a href="register.php"> Cadastre-se
+</button>
 
 </body>
 </html>

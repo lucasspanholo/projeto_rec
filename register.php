@@ -61,6 +61,9 @@ function validarForm() {
 
 }
 </script>
+<button>
+    <a href="login.php"> Login
+</button>
 </body>
 </html>
 
